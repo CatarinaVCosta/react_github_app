@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import { SearchInput } from "./containers/searchComponent/search";
-import { SearchResults } from "./containers/searchResultsComponent/searchResults";
+import { SearchInput } from './containers/searchComponent/search';
+import { SearchResults } from './containers/searchResultsComponent/searchResults';
 
 function App() {
   return (
